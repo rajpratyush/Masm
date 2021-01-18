@@ -1,4 +1,4 @@
-# Masm
+# MASM
 Microprocessor Lab Programs done as a part of coursework
 
 1. MASM Program to print Hello World (hello.asm).
@@ -10,6 +10,11 @@ Microprocessor Lab Programs done as a part of coursework
 
 # Way to execute masm programs 
 
+## Write your programs in notepad and save it as yourfilename.asm 
+
+## Copy your filename.asm to the folder where you have stored the MASM libraries
+
+## Run the Dosbox and then in Dosbox
 After Z:\>   type the following commands
 mount c c:\8086  (if you have copied the masm libraries in 8086 folder in c drive)
 
