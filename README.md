@@ -15,11 +15,11 @@ Microprocessor Lab Programs done as a part of coursework
 ## Copy your filename.asm to the folder where you have stored the MASM libraries
 
 ## Run the Dosbox and then in Dosbox
-After Z:\>   type the following commands
-mount c c:\8086  (if you have copied the masm libraries in 8086 folder in c drive)
+After Z:\>   type the following commands <br>
+mount c c:\8086  (if you have copied the masm libraries in 8086 folder in c drive)<br>
 
-Then press Enter and type
-c:
+Then press Enter and type <br>
+c:<br>
 
 ## Begin execution as 
 
